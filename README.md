@@ -112,7 +112,7 @@
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" />
       <br>Node.js
-    </td>>
+    </td>
   </tr>
 </table>
 
@@ -263,6 +263,7 @@
 </table>
 
 </div>
+
 ---
 
 <div align="center">
