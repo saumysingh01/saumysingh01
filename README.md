@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hey%2C+I+am+Saumy+Singh+;Full+Stack+Developer+%7C+System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Building+Scalable+Backend+%26+Microservices+%F0%9F%94%A7;Python+%7C+SQL+%7C+HTML+%7C+Git%2FGitHub;Passionate+about+agentic+Development++%F0%9F%A4%96;Always+learning%2C+Always+Building+%F0%9F%93%9A+;Let's+create+something+amazing+together!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hey%2C+I+am+Saumy+Singh%21;Full+Stack+Developer+%7C+System+Design+Enthusiast;Building+Scalable+Backend+%26+Microservices;Passionate+about+Agentic+Development;Let%27s+create+something+amazing+together%21" alt="Typing SVG" />
 </p>
 
 ---
@@ -218,7 +218,7 @@
 
 ## 🚀 Featured Projects
 
-<div align="right">
+<div align="left">
 
 ### 🧠 GenAI-Powered Text-to-SQL Analytics Dashboard
 >  An enterprise-grade AI Business Intelligence dashboard that uses Groq and Llama 3.3 to securely translate conversational English queries into optimized SQL, execute them, and automatically render real-time interactive Plotly charts.
