@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=750&lines=Hey!+I'm+Ganesh+%F0%9F%91%8B;Full+Stack+Developer+%7C+System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Building+Scalable+Backends+%26+Microservices+%F0%9F%94%A7;React+%7C+Node.js+%7C+Spring+Boot+%7C+Docker+%F0%9F%9A%80;Passionate+about+Agentic+Development+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%93%9A;Let's+create+something+amazing+together!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="(https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hey%2C+I+am+Saumy+Singh+;Full+Stack+Developer+%7C+System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Building+Scalable+Backend+%26+Microservices+%F0%9F%94%A7;Python+%7C+SQL+%7C+HTML+%7C+Git%2FGitHub;Passionate+about+agentic+Development++%F0%9F%A4%96;Always+learning%2C+Always+Building+%F0%9F%93%9A+;Let's+create+something+amazing+together!+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 ---
@@ -247,7 +247,7 @@
 <table>
   <tr>
     <td align="center">
-      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ganesh01110&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+      <img width="100%" src="https://github-readme-stats-ruby-one.vercel.app/api?username=saumysingh01&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td align="center" rowspan="2">
       <img src="ghibili.gif" width="380" alt="Ghibli Animation" />
@@ -255,7 +255,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ganesh01110&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+      <img width="100%" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=saumysingh01&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -265,8 +265,7 @@
 <div align="center">
 
 ## 🔥 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats-kappa-lilac.vercel.app?user=saumysingh01&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saumysingh01&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
@@ -276,7 +275,7 @@
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saumysingh01&theme=react-dark&hide_border=true)](https://github.com/saumysingh01)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saumysingh01&theme=github-dark)
 </div>
 
 ---
@@ -311,7 +310,7 @@ I'd love to hear from you — say hi, drop feedback, or just connect!
 
 ## ⚡ Fun Facts
 
-- - 🧩 I love finding friction in how data moves — then removing it with clean code
+- 🧩 I love finding friction in how data moves — then removing it with clean code
 - 🚀 First-year student already shipping **production-grade AI tools**
 - 🎯 I don't choose between "learning fundamentals" and "shipping real projects" — I do both at once
 - 🏆 HackerRank Advanced SQL certified + Google Cloud GenAI Learning Path graduate
