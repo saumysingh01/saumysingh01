@@ -22,9 +22,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hey%2C+I+am+Saumy+Singh%21;Full+Stack+Developer+%7C+System+Design+Enthusiast;Building+Scalable+Backend+%26+Microservices;Passionate+about+Agentic+Development;Let%27s+create+something+amazing+together%21" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=216e39&center=true&vCenter=true&width=850&lines=Hey%2C+I+am+Saumy+Singh%21+%F0%9F%91%8B;Full+Stack+Developer+%7C+System+Design+Enthusiast+%F0%9F%92%BB;Building+Scalable+Backend+%26+Microservices+%F0%9F%9A%80;Passionate+about+Agentic+Development+%F0%9F%A4%96;Let%27s+create+something+amazing+together%21+%E2%9C%A8" alt="Typing SVG" />
 </p>
-
 ---
 
 <div align="left">
@@ -242,12 +241,14 @@
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Statistics
 
 <table>
   <tr>
     <td align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=saumysingh01&show_icons=true&theme=radical&hide_border=true&count_private=true&v=1" alt="GitHub Stats" />
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saumysingh01&theme=radical" alt="GitHub Stats" />
     </td>
     <td align="center" rowspan="2">
       <img src="ghibili.gif" width="380" alt="Ghibli Animation" />
@@ -255,10 +256,12 @@
   </tr>
   <tr>
     <td align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumysingh01&layout=compact&theme=radical&hide_border=true&langs_count=10&v=1" alt="Top Languages" />
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saumysingh01&theme=radical" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
+</div>
 ---
 
 <div align="center">
@@ -274,7 +277,7 @@
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saumysingh01&theme=github-dark&hide_border=true&area=true&v=1" width="100%" alt="Contribution Graph" />
+<img src="https://ghchart.rshah.org/216e39/saumysingh01" width="100%" alt="Contribution Graph" />
 
 </div>
 
@@ -325,6 +328,9 @@ I'd love to hear from you — say hi, drop feedback, or just connect!
 </div>
 
 ---
+
+<div align="center">
+
 ## 🐍 Snake Eating My Contributions!
 
 <picture>
