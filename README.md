@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="(https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hey%2C+I+am+Saumy+Singh+;Full+Stack+Developer+%7C+System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Building+Scalable+Backend+%26+Microservices+%F0%9F%94%A7;Python+%7C+SQL+%7C+HTML+%7C+Git%2FGitHub;Passionate+about+agentic+Development++%F0%9F%A4%96;Always+learning%2C+Always+Building+%F0%9F%93%9A+;Let's+create+something+amazing+together!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hey%2C+I+am+Saumy+Singh+;Full+Stack+Developer+%7C+System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Building+Scalable+Backend+%26+Microservices+%F0%9F%94%A7;Python+%7C+SQL+%7C+HTML+%7C+Git%2FGitHub;Passionate+about+agentic+Development++%F0%9F%A4%96;Always+learning%2C+Always+Building+%F0%9F%93%9A+;Let's+create+something+amazing+together!+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 ---
@@ -170,7 +170,7 @@
 
 </div>
 
-<div align="left">
+<div align="right">
 
 ### 🏗️ System Design & Architecture
 <table>
@@ -192,7 +192,7 @@
 
 </div>
 
-<div align="right">
+<div align="left">
 
 ### 🔧 DevOps & Tools
 <table>
@@ -218,7 +218,7 @@
 
 ## 🚀 Featured Projects
 
-<div align="left">
+<div align="right">
 
 ### 🧠 GenAI-Powered Text-to-SQL Analytics Dashboard
 >  An enterprise-grade AI Business Intelligence dashboard that uses Groq and Llama 3.3 to securely translate conversational English queries into optimized SQL, execute them, and automatically render real-time interactive Plotly charts.
@@ -247,7 +247,7 @@
 <table>
   <tr>
     <td align="center">
-      <img width="100%" src="https://github-readme-stats-ruby-one.vercel.app/api?username=saumysingh01&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=saumysingh01&show_icons=true&theme=radical&hide_border=true&count_private=true&v=1" alt="GitHub Stats" />
     </td>
     <td align="center" rowspan="2">
       <img src="ghibili.gif" width="380" alt="Ghibli Animation" />
@@ -255,11 +255,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img width="100%" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=saumysingh01&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumysingh01&layout=compact&theme=radical&hide_border=true&langs_count=10&v=1" alt="Top Languages" />
     </td>
   </tr>
 </table>
-
 ---
 
 <div align="center">
@@ -275,7 +274,8 @@
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saumysingh01&theme=github-dark)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saumysingh01&theme=github-dark&hide_border=true&area=true&v=1" width="100%" alt="Contribution Graph" />
+
 </div>
 
 ---
