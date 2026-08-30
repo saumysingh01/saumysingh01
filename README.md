@@ -22,8 +22,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=216e39&center=true&vCenter=true&width=850&lines=Hey%2C+I+am+Saumy+Singh%21+%F0%9F%91%8B;Full+Stack+Developer+%7C+System+Design+Enthusiast+%F0%9F%92%BB;Building+Scalable+Backend+%26+Microservices+%F0%9F%9A%80;Passionate+about+Agentic+Development+%F0%9F%A4%96;Let%27s+create+something+amazing+together%21+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D8FF&center=true&vCenter=true&width=850&lines=Hey%2C+I+am+Saumy+Singh%21+%F0%9F%91%8B;Full+Stack+Developer+%7C+System+Design+Enthusiast+%F0%9F%92%BB;Building+Scalable+Backend+%26+Microservices+%F0%9F%9A%80;Passionate+about+Agentic+Development+%F0%9F%A4%96;Let%27s+create+something+amazing+together%21+%E2%9C%A8" alt="Typing SVG" />
 </p>
+
 ---
 
 <div align="left">
