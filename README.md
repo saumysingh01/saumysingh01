@@ -304,7 +304,7 @@ I'd love to hear from you — say hi, drop feedback, or just connect!
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-blueviolet?style=for-the-badge)](https://saumysingh01.github.io/)
-[![Resume](https://shields.io📄_Resume-Visit_Site-orange?style=for-the-badge)](Saumy_resume.pdf)
+[![Resume](https://img.shields.io/badge/RESUME-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Saumy_resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saumysingh01)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saumysingh01)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saumysingh780037@gmail.com)
