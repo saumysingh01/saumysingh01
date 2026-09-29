@@ -31,7 +31,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a **1st Year B.Tech CSE student** at **Raj Kumar Goel Institute of Technology (RKGIT)**, Ghaziabad
+- 🎓 I'm a **1st Year B.Tech CSE student**
 - 💼 Currently working as **Data Analytics & AI Intern @ IBM** (SkillsBuild x BharatCares)
 - 🛠️ I build tools that bridge **conversational AI with real databases** — like my GenAI Text-to-SQL Dashboard
 - 🐍 Proficient in **Python, SQL, MySQL, Git & GitHub**
